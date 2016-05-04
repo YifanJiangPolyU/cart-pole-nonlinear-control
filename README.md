@@ -7,4 +7,4 @@ Balance: use LQR to design a state space feedback to balance the inverted pendul
 
 Swing up: starting at the bottum, swing the pendulum to upright position and balance there, by moving the cart only
 
-NOTE: you run the python codes, you need the following libraries: 1) numby   2) matplotlib   3) sicpy
+NOTE: to run the python codes, you need the following libraries: 1) numby   2) matplotlib   3) sicpy
